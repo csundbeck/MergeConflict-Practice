@@ -1,22 +1,27 @@
-.one {
-  color: blue;
-}
-.two {
-  color: red;
-}
-
-.three {
-  color: green;
-}
-
-/* h3 {
-  color: green;
-} */
-
 body {
-  background-color: lightsteelblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
 }
 
 div {
+  margin: auto;
+  width: 140px;
   text-align: center;
+}
+
+.div1 {
+  background-color: tomato;
+  color: blue;
+}
+
+.div2 {
+  background-color: blueviolet;
+  color: red;
+}
+
+.div3 {
+  background-color: darkcyan;
+  color: green;
 }
