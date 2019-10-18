@@ -1,0 +1,22 @@
+.one {
+  color: blue;
+}
+.two {
+  color: red;
+}
+
+.three {
+  color: green;
+}
+
+/* h3 {
+  color: green;
+} */
+
+body {
+  background-color: lightsteelblue;
+}
+
+div {
+  text-align: center;
+}
