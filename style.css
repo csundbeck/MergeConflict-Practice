@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+div {
+    margin: auto;
+}
+
+.div1 {
+    background-color: tomato;
+}
+
+.div2 {
+    background-color: blueviolet;
+}
+
+.div3 {
+    background-color: darkcyan;
+}
